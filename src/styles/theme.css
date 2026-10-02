@@ -1,0 +1,43 @@
+:root {
+  --background: #101214;
+  --foreground: #f0f2f3;
+  --card: #171a1d;
+  --card-foreground: #f0f2f3;
+  --popover: #1c2024;
+  --popover-foreground: #f0f2f3;
+  --primary: #8ae5c8;
+  --primary-foreground: #112a22;
+  --secondary: #22272b;
+  --secondary-foreground: #d8dee2;
+  --muted: #202428;
+  --muted-foreground: #8e969e;
+  --accent: #8ae5c8;
+  --accent-foreground: #112a22;
+  --destructive: #f08d8d;
+  --border: #2b3035;
+  --input: #2b3035;
+  --ring: #8ae5c8;
+  --radius: 0.75rem;
+}
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --font-mono: 'JetBrains Mono', monospace;
+  --font-display: 'DM Sans', sans-serif;
+}

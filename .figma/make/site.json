@@ -1,0 +1,10 @@
+{
+  "description": "Interactive educational game visually teaching default gateway configuration through network packet routing challenges with animated feedback and responsive design.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
